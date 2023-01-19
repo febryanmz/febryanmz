@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-### I'm Febryan Muhammad, I am a guy who loves tech and sees myself as a full-time learner.
+### I'm Febryan Muhammad, I am a Backend Engineer and a guy who loves tech and sees myself as a full-time learner.
 -------
   
 ## 🧐 About
