@@ -1,49 +1,20 @@
-<!--
-**febryanmz/febryanmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Febryan Muhammad 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-febryanmuhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/febryan-muhammad-279b3180/)](https://www.linkedin.com/in/febryan-muhammad-279b3180/)
 [![Gmail Badge](https://img.shields.io/badge/-febryan.zainal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:febryan.zainal@gmail.com)](mailto:febryan.zainal@gmail.com)
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=febryanmz&label=Profile%20views&color=0e75b6&style=flat" alt="febryanmz" /> </p>
 
 ## Hi there 👋
 
-### I'm Febryan Muhammad, I am a Backend Engineer and a guy who loves tech and sees myself as a full-time learner.
--------
-  
-## 🧐 About
+### I am a Backend Engineer and a guy who loves technology and sees myself as a full-time learner.
 
-- 🏄‍ A guy who loves tech and being involved in communities and learning new things.
-<!-- - 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
+
+- 🏄‍ I'm professional web surfer.
+- 😄 Smile a lot and enjoy learning new things.
+- 🔭 Curently working on my [Project](https://github.com/febryanmz?tab=repositories/).
+- 🌱 Love nature and went on several mountains.
 - 👯 And Many More...
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
-
-
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
-
-<!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤔
-
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </p>
