@@ -13,7 +13,7 @@
 - 🏄‍ I'm professional web surfer.
 - 😄 Smile a lot and enjoy learning new things.
 - 🔭 See my latest [Project](https://github.com/febryanmz/RawatInap/).
-- 🌱 Love nature and went on several mountains.
+- 🌱 loves nature and has climbed several mountains in east java.
 - 👯 And Many More...
 
 
