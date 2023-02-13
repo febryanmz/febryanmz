@@ -11,10 +11,10 @@
 
 
 - 🏄‍ I'm professional web surfer.
-- 😄 Smile a lot and enjoy learning new things.
 - 🔭 My latest project [Rawat Inap](https://github.com/febryanmz/RawatInap/).
-- 🌱 loves nature.
-- 👯 And Many More...
+- 🌱 Trying to learn a new tech stack.
+- 😄 Want to discuss something? feel free to contact me.
+- 👯 and many more...
 
 
 <h3 align="left">Languages and Tools:</h3>
