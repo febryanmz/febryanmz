@@ -14,7 +14,6 @@
 - 🔭 My latest project [Rawat Inap](https://github.com/febryanmz/RawatInap/).
 - 🌱 Trying to learn a new tech stack.
 - 😄 Want to discuss something? feel free to contact me.
-- 👯 and many more...
 
 
 <h3 align="left">Languages and Tools:</h3>
